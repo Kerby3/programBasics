@@ -1,0 +1,4 @@
+﻿  Add5.cpp
+C:\Users\popov\Desktop\БФУ\дз\основы программирования\2 сем\Additional 1\Add5\Add5\Add5.cpp(71,6): warning C4101: max: неиспользованная локальная переменная
+C:\Users\popov\Desktop\БФУ\дз\основы программирования\2 сем\Additional 1\Add5\Add5\Add5.cpp(69,9): warning C4101: b: неиспользованная локальная переменная
+  Add5.vcxproj -> C:\Users\popov\Desktop\БФУ\дз\основы программирования\2 сем\Additional 1\Add5\x64\Debug\Add5.exe

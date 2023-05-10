@@ -1,0 +1,5 @@
+﻿  8lab.cpp
+C:\Users\popov\Desktop\БФУ\дз\основы программирования\2 сем\8lab\8lab\matrix.hpp(174): warning C4715: el::Matrix<int,2,2>::Det: значение возвращается не при всех путях выполнения
+C:\Users\popov\Desktop\БФУ\дз\основы программирования\2 сем\8lab\8lab\matrix.hpp(219): warning C4715: el::Matrix<double,2,2>::Rev: значение возвращается не при всех путях выполнения
+C:\Users\popov\Desktop\БФУ\дз\основы программирования\2 сем\8lab\8lab\matrix.hpp(174): warning C4715: el::Matrix<double,2,2>::Det: значение возвращается не при всех путях выполнения
+  8lab.vcxproj -> C:\Users\popov\Desktop\БФУ\дз\основы программирования\2 сем\8lab\x64\Debug\8lab.exe

@@ -1,0 +1,3 @@
+﻿  15lab.cpp
+C:\Users\popov\Desktop\БФУ\дз\основы программирования\2 сем\15lab\15lab\15lab.cpp(83,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  15lab.vcxproj -> C:\Users\popov\Desktop\БФУ\дз\основы программирования\2 сем\15lab\x64\Debug\15lab.exe

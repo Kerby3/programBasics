@@ -1,0 +1,3 @@
+﻿  4lab.cpp
+C:\Users\popov\Desktop\БФУ\дз\основы программирования\2 сем\4lab\4lab\4lab.cpp(71,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  4lab.vcxproj -> C:\Users\popov\Desktop\БФУ\дз\основы программирования\2 сем\4lab\x64\Debug\4lab.exe
